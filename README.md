@@ -37,14 +37,20 @@
 
 # 什么样子？
 
+<div align='center'>
+
 ![img](https://i.loli.net/2018/04/29/5ae5d18625520.jpg)
+
+</div>
 
 先有这样的五张，后面可能会有更多。敬请期待。
 
 <br>
 
 <div align='center'>
-**【版权信息】** 
+
+【版权信息】
+
 </div>
 
 底图来自 Google Image Search: Material Design Wallpapers.
