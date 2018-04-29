@@ -45,6 +45,8 @@
 
 :heart: 先有这样的五张，后面可能会有更多。敬请期待。
 
+为什么是 Ubuntu 和 Deepin？周围用这两个系统的人儿相对来说最多了。
+
 <br>
 
 <div align='center'>
