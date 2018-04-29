@@ -24,10 +24,10 @@
 
 ### Linux, other Unix based OS, or Windows with `git`
 
-1. 找一个合适的文件夹，或许是你放图片的那个文件夹，比如 `Pictures` ；
+1. 找一个合适的文件夹，或许是你放图片的那个文件夹，比如 `Pictures` ；
 2. 在终端中定位到这个文件夹下；
 3. 运行命令：`git clone https://github.com/spencerwoo98/linux-wallpapers`
-4. 稍安勿躁，然后就可以看到高清无损无水印大图壁纸了。:heart:
+4. 稍安勿躁，然后就可以看到高清无损无水印大图壁纸了。:heart:
 
 ### Windows with no `git` 或者你觉得上面莫名其妙的命令让你不知所措
 
@@ -74,7 +74,7 @@ Logo 和其他品牌类配色版权归属：
 
 可能会有更新。
 
-欢迎投稿 base 壁纸，但必须符合 Material Design Guidelines。
+欢迎投稿 base 壁纸，但希望你的壁纸也能够符合 Material Design Guidelines。
 
 <br>
 
