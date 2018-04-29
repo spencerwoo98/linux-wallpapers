@@ -43,7 +43,7 @@
 
 </div>
 
-先有这样的五张，后面可能会有更多。敬请期待。
+:heart: 先有这样的五张，后面可能会有更多。敬请期待。
 
 <br>
 
@@ -59,6 +59,7 @@ Logo 和其他品牌类配色版权归属：
 
 - Ubuntu 母公司 The Canonical Group
 - Deepin 武汉深度科技有限公司 Deepin Technology Co., Ltd. 
+- 
 <br>
 
 # 为什么 GitHub ？
