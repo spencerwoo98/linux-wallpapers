@@ -1,7 +1,6 @@
 
 ![img](https://i.loli.net/2018/04/29/5ae5ca937f0c7.jpg)
 
-
 # 设计初衷
 
 折腾 Ubuntu 和 CentOS 的桌面有一段时间了。
