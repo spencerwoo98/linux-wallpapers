@@ -1,10 +1,23 @@
 
 ![img](https://i.loli.net/2018/04/29/5ae5ca937f0c7.jpg)
 
+# Linux Wallpapers for the **Linux Master Race**
 
-# 设计初衷
+为 Linux 桌面设计的基于 Material Design Guidelines 的壁纸。
 
-折腾 Ubuntu 和 CentOS 的桌面有一段时间了。
+- [Linux Wallpapers for the **Linux Master Race**](#linux-wallpapers-for-the-linux-master-race)
+    - [设计初衷](#设计初衷)
+    - [HOW TO](#how-to)
+    - [什么样子？](#什么样子)
+    - [为什么 GitHub ？](#为什么-github-)
+- [Further Development & Contributing](#further-development--contributing)
+- [Reference](#reference)
+
+## 设计初衷
+
+~~折腾 Ubuntu 和 CentOS 的桌面有一段时间了。~~
+
+已经入坑 Arch Linux (Manjaro) + Gnome Desktop Environment 一月有余了。
 
 除了 Gnome 的主题、图标和鼠标 Cursor 的风格可以定制之外，壁纸的选择也成为了很大的难题。
 
@@ -21,28 +34,22 @@
 
 <br>
 
-# HOW TO
+## HOW TO
 
-### Linux, other Unix based OS, or Windows with `git`
+**Linux, other Unix based OS, or Windows with `git`**
 
 1. 找一个合适的文件夹，或许是你放图片的那个文件夹，比如 `Pictures` ；
 2. 在终端中定位到这个文件夹下；
 3. 运行命令：`git clone https://github.com/spencerwoo98/linux-wallpapers`
 4. 稍安勿躁，然后就可以看到高清无损无水印大图壁纸了。:heart:
 
-### Windows with no `git` 或者你觉得上面莫名其妙的命令让你不知所措
+**Windows with no `git` 或者你觉得上面莫名其妙的命令让你不知所措**
 
 点击链接 --> [Linux Wallpapers Material Design](https://github.com/spencerwoo98/linux-wallpapers/archive/master.zip) 下载压缩包，解压即可看见。
 
 <br>
 
-# 什么样子？
-
-<div align='center'>
-
-![img](https://i.loli.net/2018/04/29/5ae5d18625520.jpg)
-
-</div>
+## 什么样子？
 
 :heart: 先有这样的五张，后面可能会有更多。敬请期待。
 
@@ -65,7 +72,7 @@ Logo 和其他品牌类配色版权归属：
 
 <br>
 
-# 为什么 GitHub ？
+## 为什么 GitHub ？
 
 难不成我放到百度网盘上？
 
@@ -87,6 +94,8 @@ Logo 和其他品牌类配色版权归属：
 - Google Image Search 'Ubuntu Logos'
 - Google Image Search 'Deepin Logos'
 - Deepin Official Website 'deepin.png'
+- Arch Linux Logos from https://www.archlinux.org/art/
+- Vector images from https://freepik.com/
 
 <br>
 
