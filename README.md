@@ -1,20 +1,20 @@
 
 ![img](https://i.loli.net/2018/04/29/5ae5ca937f0c7.jpg)
 
-# Linux Wallpapers for the **Linux Master Race**
+# 🍦 Linux Wallpapers for the **Linux Master Race**
 
 为 Linux 桌面设计的基于 Material Design Guidelines 的壁纸。
 
-- [Linux Wallpapers for the **Linux Master Race**](#linux-wallpapers-for-the-linux-master-race)
-    - [设计初衷](#设计初衷)
-    - [下载方式](#下载方式)
-    - [什么样子？](#什么样子)
-    - [Copyrights](#copyrights)
-    - [为什么 GitHub ？](#为什么-github-)
-- [Further Development & Contributing](#further-development--contributing)
-- [Reference](#reference)
+- [🍦 Linux Wallpapers for the **Linux Master Race**](#-linux-wallpapers-for-the-linux-master-race)
+    - [🥟 设计初衷](#-设计初衷)
+    - [🍱 下载方式](#-下载方式)
+    - [🎁 什么样子？](#-什么样子)
+    - [🥨 Copyrights](#-copyrights)
+    - [😍 为什么 GitHub ？](#-为什么-github-)
+- [✈ Further Development & Contributing](#-further-development--contributing)
+- [🛩 Reference](#-reference)
 
-## 设计初衷
+## 🥟 设计初衷
 
 ~~折腾 Ubuntu 和 CentOS 的桌面有一段时间了。~~
 
@@ -33,7 +33,7 @@
 
 一些微小的工作。
 
-## 下载方式
+## 🍱 下载方式
 
 **Linux, other Unix based OS, or Windows with `git`**
 
@@ -48,18 +48,20 @@
 
 <br>
 
-## 什么样子？
+## 🎁 什么样子？
 
 |   Ubuntu   	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/ubuntu1.jpg) 	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/ubuntu2.jpg) 	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/ubuntu3.jpg) 	|                                                                                          	|
 |:----------:	|:------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------:	|------------------------------------------------------------------------------------------	|
 |   Deepin   	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/deepin1.jpg) 	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/deepin2.jpg) 	|                                                                                            	|                                                                                          	|
 | Arch Linux 	|  ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/arch4.jpg)  	|  ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/arch2.jpg)  	|  ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/arch3.jpg)  	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/arch1.jpg) 	|
 
-:heart: 先有这样的五张，后面可能会有更多。敬请期待。
+~~:heart: 先有这样的五张，后面可能会有更多。敬请期待。~~
 
-为什么是 Ubuntu 和 Deepin？周围用这两个系统的人儿相对来说最多了。
+~~为什么是 Ubuntu 和 Deepin？周围用这两个系统的人儿相对来说最多了。~~
 
-## Copyrights
+已更新 Arch Linux 以及相关壁纸。See [Issue #1](https://github.com/spencerwoo98/linux-wallpapers/issues/1).
+
+## 🥨 Copyrights
 
 底图来自 Google Image Search: Material Design Wallpapers.
 
@@ -67,26 +69,23 @@ Logo 和其他品牌类配色版权归属：
 
 - Ubuntu 母公司 The Canonical Group
 - Deepin 武汉深度科技有限公司 Deepin Technology Co., Ltd. 
+- Arch Linux and its affiliates.
 
-<br>
-
-## 为什么 GitHub ？
+## 😍 为什么 GitHub ？
 
 难不成我放到百度网盘上？
 
 醒醒吧，兄弟。
 
-<br>
-
-# Further Development & Contributing
+# ✈ Further Development & Contributing
 
 可能会有更新。
 
-欢迎投稿 base 壁纸，但希望你的壁纸也能够符合 Material Design Guidelines。
+欢迎投稿 base 壁纸，但希望你的壁纸也能够符合 Material Design Guidelines。我会帮你在合适的位置设计 Linux Logo 和其他元素。
 
 <br>
 
-# Reference
+# 🛩 Reference
 
 - Google Image Search 'Material Design Wallpapers'
 - Google Image Search 'Ubuntu Logos'
