@@ -7,8 +7,9 @@
 
 - [Linux Wallpapers for the **Linux Master Race**](#linux-wallpapers-for-the-linux-master-race)
     - [设计初衷](#设计初衷)
-    - [HOW TO](#how-to)
+    - [下载方式](#下载方式)
     - [什么样子？](#什么样子)
+    - [Copyrights](#copyrights)
     - [为什么 GitHub ？](#为什么-github-)
 - [Further Development & Contributing](#further-development--contributing)
 - [Reference](#reference)
@@ -32,9 +33,7 @@
 
 一些微小的工作。
 
-<br>
-
-## HOW TO
+## 下载方式
 
 **Linux, other Unix based OS, or Windows with `git`**
 
@@ -51,17 +50,16 @@
 
 ## 什么样子？
 
+|   Ubuntu   	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/ubuntu1.jpg) 	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/ubuntu2.jpg) 	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/ubuntu3.jpg) 	|                                                                                          	|
+|:----------:	|:------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------:	|------------------------------------------------------------------------------------------	|
+|   Deepin   	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/deepin1.jpg) 	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/deepin2.jpg) 	|                                                                                            	|                                                                                          	|
+| Arch Linux 	|  ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/arch4.jpg)  	|  ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/arch2.jpg)  	|  ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/arch3.jpg)  	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/arch1.jpg) 	|
+
 :heart: 先有这样的五张，后面可能会有更多。敬请期待。
 
 为什么是 Ubuntu 和 Deepin？周围用这两个系统的人儿相对来说最多了。
 
-<br>
-
-<div align='center'>
-
-【版权信息】
-
-</div>
+## Copyrights
 
 底图来自 Google Image Search: Material Design Wallpapers.
 
