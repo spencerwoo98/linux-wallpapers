@@ -1,7 +1,7 @@
 
-![img](https://i.loli.net/2018/04/29/5ae5ca937f0c7.jpg)
+![desktop_demo.png](https://i.loli.net/2018/09/21/5ba488d627902.png)
 
-# 🍦 Linux Wallpapers for the **Linux Master Race**
+# 🍦 Linux Wallpapers for the Linux Master Race
 
 为 Linux 桌面设计的基于 Material Design Guidelines 的壁纸。
 
@@ -46,8 +46,6 @@
 
 点击链接 --> [Linux Wallpapers Material Design](https://github.com/spencerwoo98/linux-wallpapers/archive/master.zip) 下载压缩包，解压即可看见。
 
-<br>
-
 ## 🎁 什么样子？
 
 |   Ubuntu   	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/ubuntu1.jpg) 	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/ubuntu2.jpg) 	| ![img](https://raw.githubusercontent.com/spencerwoo98/linux-wallpapers/master/ubuntu3.jpg) 	|                                                                                          	|
@@ -82,8 +80,6 @@ Logo 和其他品牌类配色版权归属：
 可能会有更新。
 
 欢迎投稿 base 壁纸，但希望你的壁纸也能够符合 Material Design Guidelines。我会帮你在合适的位置设计 Linux Logo 和其他元素。
-
-<br>
 
 # 🛩 Reference
 
